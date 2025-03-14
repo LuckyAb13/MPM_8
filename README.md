@@ -4,5 +4,5 @@
 # Desain UI (HTML & CSS) (Lucky)
 # Fungsi tambah, hapus task (JavaScript) 
 # Penyimpanan data lokal (localStorage / backend) (Rapi)
-# Testing & dokumentasi README 
+# Testing & dokumentasi README (choirul)
 # Penggabungan cabang (merge) & review PR
