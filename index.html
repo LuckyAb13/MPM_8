@@ -9,10 +9,13 @@
 <body>
   <div class="todo-container">
     <h1>Daftar Kegiatan</h1>
-    <input type="text" placeholder="Tambah tugas..." />
-    <button>Tambah</button>
+    <input type="text" id="task-input" placeholder="Tambah tugas..." />
+    <button id="add-task">Tambah</button>
+    <input type="file" id="upload-input" accept=".json">
+    <button id="download-button">Download Tasks</button>
     <ul id="todo-list"></ul>
   </div>
+
   <script src="script.js"></script>
 </body>
 </html>
