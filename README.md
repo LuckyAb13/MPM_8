@@ -5,4 +5,4 @@
 # Fungsi tambah, hapus task (JavaScript) haidar
 # Penyimpanan data lokal (localStorage / backend) (Rapi)
 # Testing & dokumentasi README (choirul)
-# Penggabungan cabang (merge) & review PR
+# Penggabungan cabang (merge) & review PR(haidar)
