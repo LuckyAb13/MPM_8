@@ -2,7 +2,7 @@
 
 # Tugas (pilih):
 # Desain UI (HTML & CSS) (Lucky)
-# Fungsi tambah, hapus task (JavaScript) 
+# Fungsi tambah, hapus task (JavaScript) haidar
 # Penyimpanan data lokal (localStorage / backend) (Rapi)
 # Testing & dokumentasi README (choirul)
 # Penggabungan cabang (merge) & review PR
