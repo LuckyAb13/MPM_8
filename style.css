@@ -44,3 +44,21 @@ body {
     border-bottom: 1px solid #eee;
   }
   
+  .delete-btn {
+    background: none;
+    border: none;
+    color: red;
+    font-size: 16px;
+    cursor: pointer;
+    margin-left: 10px;
+  }
+  
+  .delete-btn:hover {
+    color: darkred;
+  }
+
+  .task-text.completed {
+    text-decoration: line-through;
+    color: #888;
+}
+  
